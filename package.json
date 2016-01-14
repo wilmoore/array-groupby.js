@@ -1,7 +1,7 @@
 {
   "name": "array-groupby",
   "description": "Curried function that returns a map (object) with keys derived by applying each array element to the given identity function. The value(s) at each key will be an array of elements whose identity matches the given key.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/array-groupby.js/issues"
